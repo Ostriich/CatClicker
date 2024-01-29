@@ -1,0 +1,42 @@
+{
+    "idSave": 502,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "Money": 5718528,
+    "StrengthClick": 18426,
+    "StrengthAutoclick": 33,
+    "SelectedCat": 6,
+    "Sound": false,
+    "UpgradesClicks": [
+        8,
+        75,
+        1,
+        67,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "UpgradesCat": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}
